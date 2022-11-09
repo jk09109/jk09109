@@ -1,6 +1,10 @@
 ### Hi there 👋
 
-
+<p align="center">
+<a href="https://github.com/jk09109">
+    <img src="https://readme-typing-svg.demolab.com?font=Georgia&size=18&duration=2000&pause=100&multiline=true&width=500&height=80&lines=박준범;Researcher+%7C+PhD+Student+%7C+Software+Engineer;AI+%7C+Computer+Vision+%7C+Bots" alt="Typing SVG" />
+</a>
+<br/>
 
 
 **jk09109/jk09109** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
